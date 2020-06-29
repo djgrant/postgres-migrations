@@ -1,5 +1,5 @@
 {
-  "name": "postgres-migrations",
+  "name": "@djgrant/postgres-migrations",
   "version": "4.0.3",
   "description": "Stack Overflow style database migrations for PostgreSQL",
   "main": "dist/index.js",
